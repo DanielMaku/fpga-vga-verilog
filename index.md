@@ -5,9 +5,8 @@ tags: fpga vga verilog
 categories: demo
 ---
 
-Add a short welcome message or introduction here. Aim to get the viewer interested in what follows! Guideline: 1 or 2 sentences. 
+Hello my name is Daniel Maku and this is my System On Chip project . Aim to get the viewer interested in what follows! Guideline: 1 or 2 sentences. 
 
-I am adding a test sentence here at 13:24 on 03/12/24.
 
 ## **Template VGA Design**
 ### **Project Set-Up**
