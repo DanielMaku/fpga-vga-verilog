@@ -9,6 +9,11 @@ Hello my name is Daniel Maku and this is my System On Chip project . Aim to get 
 
 
 ## **Template VGA Design**
+
+## **Weekly update - 1**
+
+this week I configured the code to put out a nigerian flag. when I first done it the shades of green were off so I had to find the binary code combination to get the perfect shade of green that I needed.
+
 ### **Project Set-Up**
 Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
 
