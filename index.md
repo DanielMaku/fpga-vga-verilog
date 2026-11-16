@@ -15,10 +15,28 @@ Hello my name is Daniel Maku and this is my System On Chip project . Aim to get 
 this week I configured the code to put out a nigerian flag. when I first done it the shades of green were off so I had to find the binary code combination to get the perfect shade of green that I needed.
 After that i decided to try figure out how to put 2 flags to display on rotation. Using a clock cycle and if a statement is true figuration.
 
+<img width="486" height="355" alt="image" src="https://github.com/user-attachments/assets/d1b257b8-c0a8-4759-9f58-89a9f852de17" /> <img width="536" height="293" alt="image" src="https://github.com/user-attachments/assets/7aae2532-2c9e-4f54-98fb-84c3ee1b8e37" />
+
+
+
+## **Weekly update - **
+used a cycle to have the nigerian and french flag to display on rotation after a number of seconds. Attempting to start a 3rd image to the rotation which is an optical illusion.
+the flag wasnt changing as quick as i wanted so i had to adjust the clock to a different configuration. CLK_HZ = 250000005 MHz clock from clk25.
+<img width="536" height="293" alt="image" src="https://github.com/user-attachments/assets/0ef6cea5-1536-43f4-b0a5-e5f26dc845e8" />  <img width="584" height="317" alt="image" src="https://github.com/user-attachments/assets/b46d0f4e-9338-4242-a124-7046489358b8" />
+
+## **Weekly update - **
+added a 3rd screen on the rotation which uses checkered boxes to display by seeing if its an even or odd number by the rows and columns. next i will try to make it move.
+<img width="538" height="354" alt="image" src="https://github.com/user-attachments/assets/8aad86a4-084e-4d30-98a0-774f16bfb9f9" />
+
+
+
+
+
 ### **Project Set-Up**
 Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
 
-<img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSum.png">
+<img width="1375" height="618" alt="image" src="https://github.com/user-attachments/assets/76f64b4f-2ea4-4c1c-981e-1cb3822d738e" />
+
 ### **Template Code**
 Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
 ### **Simulation**
